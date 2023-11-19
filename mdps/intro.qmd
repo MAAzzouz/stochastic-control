@@ -88,7 +88,7 @@ The choice of $π_2$ does not influence the first term. So, for a fixed $π_1$,
 minimizing the total cost is the equivalent to minimizing the second term.
 Now, from Blackwell's principle of irrelevant information, there
 exists a $π_2^* \colon S_2 \mapsto A_2$ such that for any $π_2$
-$$\EXP[c_2(S_2, π_2^*(S_2) ] \le \EXP[c_2(S_2, π_2(S_{1:2}, A_2) ].$$
+$$\EXP[c_2(S_2, π_2^*(S_2) ] \le \EXP[c_2(S_2, π_2(S_{1:2}, A_1) ].$$
 :::
 
 :::{#lem-three-step-lemma}
